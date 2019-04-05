@@ -10,6 +10,8 @@ import java.util.*
 
 class NetworkUtils {
 
+    //Hace una petición por http
+
     val MOVIES_API_BASEURL = "http://www.omdapi.com/"
     val TOKEN_API = "8be834d"
 
